@@ -1,0 +1,9 @@
+# Env vars
+*.env
+!template.env
+
+# Build
+coverage/
+dist/
+node_modules/
+yarn-error.log
